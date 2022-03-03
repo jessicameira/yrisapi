@@ -1,12 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+Backend only
 
 * Ruby version - 7.0.2.2
 * Rails version - 7.0.2
+* require docker - https://www.docker.com/get-started
 
 * Inicialization
     - git clone https://github.com/jessicameira/yrisapi.git
@@ -14,6 +12,7 @@ Things you may want to cover:
     - docker exec -it yrisapi_api_1 bash
     - rake db:create
     - rake db:migrate
+    - rails s
 
 * How to run the test suite
 
