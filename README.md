@@ -20,4 +20,4 @@ Backend only
 
 * Deployment instructions
 
-* ...
+<a href="https://codeclimate.com/github/jessicameira/yrisapi/maintainability"><img src="https://api.codeclimate.com/v1/badges/ad951a06bf1f070d8014/maintainability" /> CodeClimate</a>
