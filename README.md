@@ -12,6 +12,7 @@ Backend only
     - docker exec -it yrisapi_api_1 bash
     - rake db:create
     - rake db:migrate
+    - rake db:seed
     - rails s
 
 * How to run the test suite
